@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Carrot.cpp" />
+    <ClCompile Include="JadenCase.cpp" />
+    <ClCompile Include="MinMax.cpp" />
+    <ClCompile Include="PositionSort.cpp" />
+    <ClCompile Include="Sort.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
