@@ -127,11 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Carrot.cpp" />
-    <ClCompile Include="JadenCase.cpp" />
-    <ClCompile Include="MinMax.cpp" />
-    <ClCompile Include="PositionSort.cpp" />
-    <ClCompile Include="Sort.cpp" />
+    <ClCompile Include="06_ABC.cpp" />
+    <ClCompile Include="01_Carrot.cpp" />
+    <ClCompile Include="05_JadenCase.cpp" />
+    <ClCompile Include="04_MinMax.cpp" />
+    <ClCompile Include="03_PositionSort.cpp" />
+    <ClCompile Include="02_Sort.cpp" />
+    <ClCompile Include="07_ATM.cpp" />
+    <ClCompile Include="08_ToI.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

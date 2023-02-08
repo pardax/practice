@@ -50,7 +50,7 @@ string solution(string s) {
 
 	return answer;
 }
-int main() {
+int main5() {
 
 	cout << solution("3people   unFollowed me");
 	return 0;

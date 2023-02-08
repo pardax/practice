@@ -15,19 +15,28 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Carrot.cpp">
+    <ClCompile Include="01_Carrot.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Sort.cpp">
+    <ClCompile Include="02_Sort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="PositionSort.cpp">
+    <ClCompile Include="03_PositionSort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="MinMax.cpp">
+    <ClCompile Include="04_MinMax.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="JadenCase.cpp">
+    <ClCompile Include="05_JadenCase.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="06_ABC.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="07_ATM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="08_ToI.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
