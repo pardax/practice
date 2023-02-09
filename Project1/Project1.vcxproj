@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="010_PrimeNumber.cpp" />
     <ClCompile Include="06_ABC.cpp" />
     <ClCompile Include="01_Carrot.cpp" />
     <ClCompile Include="05_JadenCase.cpp" />
@@ -135,6 +136,7 @@
     <ClCompile Include="02_Sort.cpp" />
     <ClCompile Include="07_ATM.cpp" />
     <ClCompile Include="08_ToI.cpp" />
+    <ClCompile Include="09_30.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
