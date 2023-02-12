@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main1()
+int main11()
 {
     int m, n; //이상 이하
     cin >> m >> n;
