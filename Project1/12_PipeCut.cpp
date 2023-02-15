@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main12()
 {
     int stack = 0, slicedSum = 0;
 

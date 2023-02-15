@@ -127,9 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="010_PrimeNumber.cpp" />
-    <ClCompile Include="011_Eratos.cpp" />
-    <ClCompile Include="012_PipeCut.cpp" />
+    <ClCompile Include="10_PrimeNumber.cpp" />
+    <ClCompile Include="11_Eratos.cpp" />
+    <ClCompile Include="12_PipeCut.cpp" />
     <ClCompile Include="06_ABC.cpp" />
     <ClCompile Include="01_Carrot.cpp" />
     <ClCompile Include="05_JadenCase.cpp" />
@@ -139,6 +139,8 @@
     <ClCompile Include="07_ATM.cpp" />
     <ClCompile Include="08_ToI.cpp" />
     <ClCompile Include="09_30.cpp" />
+    <ClCompile Include="13_GoldBachPartition.cpp" />
+    <ClCompile Include="14_3Multiples.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

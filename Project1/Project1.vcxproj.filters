@@ -42,13 +42,19 @@
     <ClCompile Include="09_30.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="010_PrimeNumber.cpp">
+    <ClCompile Include="10_PrimeNumber.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="011_Eratos.cpp">
+    <ClCompile Include="11_Eratos.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="012_PipeCut.cpp">
+    <ClCompile Include="12_PipeCut.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13_GoldBachPartition.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="14_3Multiples.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
