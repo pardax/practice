@@ -141,6 +141,8 @@
     <ClCompile Include="09_30.cpp" />
     <ClCompile Include="13_GoldBachPartition.cpp" />
     <ClCompile Include="14_3Multiples.cpp" />
+    <ClCompile Include="15_ParenthesisString.cpp" />
+    <ClCompile Include="16_Zero.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
