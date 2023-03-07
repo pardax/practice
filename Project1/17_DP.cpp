@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main17()
 {
     //11까지의 경우의 수, 0제외    
     int a[11];
