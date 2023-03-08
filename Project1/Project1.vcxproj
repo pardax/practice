@@ -145,6 +145,7 @@
     <ClCompile Include="16_Zero.cpp" />
     <ClCompile Include="17_DP.cpp" />
     <ClCompile Include="18_RGB_house.cpp" />
+    <ClCompile Include="19_Quad.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
