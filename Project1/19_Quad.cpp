@@ -35,7 +35,7 @@ void Quad(int y, int x, int size) {
 }
 
 
-int main()
+int main19()
 {
     int n;
     cin >> n;

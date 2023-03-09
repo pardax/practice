@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main()
+int main16()
 {
     int count;
     cin >> count;

@@ -5,7 +5,7 @@ using namespace std;
 int Min(int a, int b) {
     return a > b ? b : a;
 }
-int main()
+int main18()
 {
     int array[1001][3];
     int n;
