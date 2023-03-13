@@ -148,6 +148,7 @@
     <ClCompile Include="19_Quad.cpp" />
     <ClCompile Include="20_Sticker.cpp" />
     <ClCompile Include="21_AroundQueue.cpp" />
+    <ClCompile Include="22_Devide_9_Paper.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

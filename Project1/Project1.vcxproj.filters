@@ -75,5 +75,11 @@
     <ClCompile Include="20_Sticker.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="21_AroundQueue.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="22_Devide_9_Paper.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
